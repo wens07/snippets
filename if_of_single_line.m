@@ -7,5 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-if (<#condition#>)
-    <#statements#>
+if (<#condition#>) statements 
