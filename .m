@@ -6,5 +6,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-
-        <#statements#>
+while (<#condition#>) <#statements#>
