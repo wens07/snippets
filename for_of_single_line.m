@@ -1,4 +1,4 @@
-// for of single line
+// c++ for of single line
 // 
 //
 // IDECodeSnippetCompletionPrefix: sfor
