@@ -1,9 +1,11 @@
 // 
 // 
 //
+// IDECodeSnippetCompletionPrefix: sfor
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 7C2C7CEF-04E9-421D-ACD0-4786007D3583
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
+// IDECodeSnippetIdentifier: A6074972-6126-4FFC-A907-B3FFB4918549
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-while (<#condition#>) <#statements#>
+for (<#initialization#>; <#condition#>; <#increment#>)
+        <#statements#>
