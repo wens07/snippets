@@ -1,4 +1,4 @@
-// if for single line
+// c if for single line
 // 
 //
 // IDECodeSnippetCompletionPrefix: sif
